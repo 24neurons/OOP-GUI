@@ -4,4 +4,4 @@
 - MSSV: 22028017
 
 ## Screenshot
-<img src="src\main\resources\ui\homePage.png"/>
+<img src="src\main\resources\ui\page.jpeg"/>
